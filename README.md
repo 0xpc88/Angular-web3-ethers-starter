@@ -1,5 +1,15 @@
 # Web3
 
+This project allows folk to get quickly up and running using Angular with the web3 ethers library. Specifically:
+
+- Connecting to Metamask wallet
+- Reading Contract properties
+- Executing a contract function (mint, in this case) 
+
+Pull the code, run an npm install and npm start.
+
+## Build
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.2.
 
 ## Development server
